@@ -30392,7 +30392,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <connect gate="U1" pin="SDA" pad="C3"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="IC-16254" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>

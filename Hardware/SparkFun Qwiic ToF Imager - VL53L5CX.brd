@@ -6447,6 +6447,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="U1" library="SparkFun-Sensors" package="VL53L5CX" value="VL53L5CX" x="12.7" y="12.7" smashed="yes">
 <attribute name="NAME" x="10.25" y="14.45" size="0.508" layer="25" font="vector"/>
+<attribute name="PROD_ID" value="IC-16254" x="12.7" y="12.7" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="10.25" y="10.45" size="0.508" layer="27" font="vector"/>
 </element>
 <element name="LOGO3" library="SparkFun-Aesthetics" package="QWIIC_5.5MM" value="QWIIC_LOGO_CONNECTOR" x="22.098" y="8.001" smashed="yes"/>
