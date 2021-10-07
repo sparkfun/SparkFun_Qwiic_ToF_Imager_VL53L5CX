@@ -1,9 +1,9 @@
-SparkFun Qwiic 4m Distance Sensor with VL53L1X
+SparkFun Qwiic ToF Imager with VL53L5CX
 ========================================
 
-![SparkFun Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/2/9/4/8/14722-SparkFun_Distance_Sensor_Breakout-_4_Meter__VL53L1X__Qwiic_-01.jpg)
+![SparkFun Qwiic ToF Imager with VL53L5CX](https://cdn.sparkfun.com/assets/parts/1/8/1/6/9/18642-SparkFun_Qwiic_ToF_Imager_-_VL53L5CX-01.jpg)
 
-[*SparkFun Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)(SEN-14722)*](https://www.sparkfun.com/products/14722)
+[*SparkFun Qwiic ToF Imager with VL53L5CX(SEN-18642)*](https://www.sparkfun.com/products/18642)
 
 The VL53L1X is the latest Time Of Flight (ToF) sensor to be released. It uses a VCSEL (vertical cavity surface emitting laser) to emit a class 1 IR laser and time the reflection to the target. What does all this mean? You can measure the distance to an object up to 4 meters away with millimeter resolution! That’s pretty incredible.
 
