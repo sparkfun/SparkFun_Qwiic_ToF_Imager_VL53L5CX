@@ -5,11 +5,9 @@ SparkFun Qwiic ToF Imager with VL53L5CX
 
 [*SparkFun Qwiic ToF Imager with VL53L5CX(SEN-18642)*](https://www.sparkfun.com/products/18642)
 
-The VL53L1X is the latest Time Of Flight (ToF) sensor to be released. It uses a VCSEL (vertical cavity surface emitting laser) to emit a class 1 IR laser and time the reflection to the target. What does all this mean? You can measure the distance to an object up to 4 meters away with millimeter resolution! That’s pretty incredible.
+The Qwiic ToF Imager - VL53L5CX is here! This little breakout board is built around ST Electronics' VL53L5CX; a state of the art, Time-of-Flight (ToF), multizone ranging sensor that uses a SPAD array, physical infrared filters, and diffractive optical elements (DOE) to achieve the best ranging performance in various ambient lighting conditions with a range of cover glass materials. Multizone distance measurements are possible up to 8x8 zones with a wide 63 ° diagonal FoV which can be reduced by software. 
 
-We’re far from done: The VL53L1X is a highly complex sensor with a multitude of options and configurations. We’ve written example sketches that allow you to read the distance, signal rate, and range status. Because ST has chosen not to release a complete datasheet we are forced to reverse engineer the interface from their example code and I2C data stream captures. If you’re into puzzles we could use your help to make the library better!
-
-We’ve found the precision of the sensor to be 1mm but the accuracy is around +/-5mm.
+Ideal for 3D room mapping, obstacle detection for robotics, gesture recognition, IoT, laser-assisted autofocus, and AR/VR enhancement, the Qwiic connector on this sensor makes integration easy. 
 
 SparkFun labored with love to create this code. Feel like supporting open source hardware? 
 Buy a [breakout board](https://www.sparkfun.com/products/14722) from SparkFun!
@@ -24,12 +22,7 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)** - Library for reading distance in millimeters, signal rate, status, etc.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-distance-sensor-vl53l1x-hookup-guide)**
-
-Product Versions
---------------
-* **[SEN-14722](https://www.sparkfun.com/products/14722)** - SparkFun red version
-* **[SPX-14667](https://www.sparkfun.com/products/14667)** - SparkX Version 
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-tof-imager---vl53l5cx-hookup-guide)**
 
 License Information
 -------------------
