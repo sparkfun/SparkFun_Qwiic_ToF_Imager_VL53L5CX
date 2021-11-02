@@ -24,8 +24,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Arduino Library](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)** - Library for reading distance in millimeters, signal rate, status, etc.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-tof-imager---vl53l5cx-hookup-guide)**
+* **[Arduino Library](https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library)** - Library for reading distance in millimeters, signal rate, status, etc.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-tof-imager---vl53l5cx-hookup-guide)** - Hookup guide for the Qwiic ToF Imager VL53L5CX
 
 License Information
 -------------------
