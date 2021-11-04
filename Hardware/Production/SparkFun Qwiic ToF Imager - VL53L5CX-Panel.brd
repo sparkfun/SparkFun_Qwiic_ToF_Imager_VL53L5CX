@@ -192,7 +192,7 @@
 <wire x1="0" y1="25.4" x2="25.4" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="25.4" x2="25.4" y2="0" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="0" x2="0" y2="0" width="0.2032" layer="20"/>
-<text x="6.477" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="6.477" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="2.54" y1="22.86" x2="22.86" y2="22.86" x3="12.7" y3="27.94" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="25.4" x2="25.4" y2="25.4" x3="12.7" y3="31.75" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="0" x2="0" y2="25.4" x3="-5.08" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
@@ -201,7 +201,7 @@
 <wire x1="25.908" y1="25.4" x2="51.308" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="25.4" x2="51.308" y2="0" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="0" x2="25.908" y2="0" width="0.2032" layer="20"/>
-<text x="32.385" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="32.385" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="28.448" y1="22.86" x2="48.768" y2="22.86" x3="38.608" y3="27.94" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="25.4" x2="51.308" y2="25.4" x3="38.608" y3="31.75" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="0" x2="25.908" y2="25.4" x3="20.828" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
@@ -210,7 +210,7 @@
 <wire x1="51.816" y1="25.4" x2="77.216" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="25.4" x2="77.216" y2="0" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="0" x2="51.816" y2="0" width="0.2032" layer="20"/>
-<text x="58.293" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="58.293" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="54.356" y1="22.86" x2="74.676" y2="22.86" x3="64.516" y3="27.94" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="25.4" x2="77.216" y2="25.4" x3="64.516" y3="31.75" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="0" x2="51.816" y2="25.4" x3="46.736" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
@@ -219,7 +219,7 @@
 <wire x1="77.724" y1="25.4" x2="103.124" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="25.4" x2="103.124" y2="0" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="0" x2="77.724" y2="0" width="0.2032" layer="20"/>
-<text x="84.201" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="84.201" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="80.264" y1="22.86" x2="100.584" y2="22.86" x3="90.424" y3="27.94" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="25.4" x2="103.124" y2="25.4" x3="90.424" y3="31.75" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="0" x2="77.724" y2="25.4" x3="72.644" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
@@ -228,7 +228,7 @@
 <wire x1="103.632" y1="25.4" x2="129.032" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="25.4" x2="129.032" y2="0" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="0" x2="103.632" y2="0" width="0.2032" layer="20"/>
-<text x="110.109" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="110.109" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="106.172" y1="22.86" x2="126.492" y2="22.86" x3="116.332" y3="27.94" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="25.4" x2="129.032" y2="25.4" x3="116.332" y3="31.75" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="0" x2="103.632" y2="25.4" x3="98.552" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
@@ -237,7 +237,7 @@
 <wire x1="129.54" y1="25.4" x2="154.94" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="25.4" x2="154.94" y2="0" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="0" x2="129.54" y2="0" width="0.2032" layer="20"/>
-<text x="136.017" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="136.017" y="24.13" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="132.08" y1="22.86" x2="152.4" y2="22.86" x3="142.24" y3="27.94" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="25.4" x2="154.94" y2="25.4" x3="142.24" y3="31.75" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="0" x2="129.54" y2="25.4" x3="124.46" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
@@ -246,7 +246,7 @@
 <wire x1="0" y1="51.308" x2="25.4" y2="51.308" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="51.308" x2="25.4" y2="25.908" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="25.908" x2="0" y2="25.908" width="0.2032" layer="20"/>
-<text x="6.477" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="6.477" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="2.54" y1="48.768" x2="22.86" y2="48.768" x3="12.7" y3="53.848" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="51.308" x2="25.4" y2="51.308" x3="12.7" y3="57.658" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="25.908" x2="0" y2="51.308" x3="-5.08" y3="38.608" textsize="1.778" layer="47" unit="inch"/>
@@ -255,7 +255,7 @@
 <wire x1="25.908" y1="51.308" x2="51.308" y2="51.308" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="51.308" x2="51.308" y2="25.908" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="25.908" x2="25.908" y2="25.908" width="0.2032" layer="20"/>
-<text x="32.385" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="32.385" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="28.448" y1="48.768" x2="48.768" y2="48.768" x3="38.608" y3="53.848" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="51.308" x2="51.308" y2="51.308" x3="38.608" y3="57.658" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="25.908" x2="25.908" y2="51.308" x3="20.828" y3="38.608" textsize="1.778" layer="47" unit="inch"/>
@@ -264,7 +264,7 @@
 <wire x1="51.816" y1="51.308" x2="77.216" y2="51.308" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="51.308" x2="77.216" y2="25.908" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="25.908" x2="51.816" y2="25.908" width="0.2032" layer="20"/>
-<text x="58.293" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="58.293" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="54.356" y1="48.768" x2="74.676" y2="48.768" x3="64.516" y3="53.848" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="51.308" x2="77.216" y2="51.308" x3="64.516" y3="57.658" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="25.908" x2="51.816" y2="51.308" x3="46.736" y3="38.608" textsize="1.778" layer="47" unit="inch"/>
@@ -273,7 +273,7 @@
 <wire x1="77.724" y1="51.308" x2="103.124" y2="51.308" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="51.308" x2="103.124" y2="25.908" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="25.908" x2="77.724" y2="25.908" width="0.2032" layer="20"/>
-<text x="84.201" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="84.201" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="80.264" y1="48.768" x2="100.584" y2="48.768" x3="90.424" y3="53.848" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="51.308" x2="103.124" y2="51.308" x3="90.424" y3="57.658" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="25.908" x2="77.724" y2="51.308" x3="72.644" y3="38.608" textsize="1.778" layer="47" unit="inch"/>
@@ -282,7 +282,7 @@
 <wire x1="103.632" y1="51.308" x2="129.032" y2="51.308" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="51.308" x2="129.032" y2="25.908" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="25.908" x2="103.632" y2="25.908" width="0.2032" layer="20"/>
-<text x="110.109" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="110.109" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="106.172" y1="48.768" x2="126.492" y2="48.768" x3="116.332" y3="53.848" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="51.308" x2="129.032" y2="51.308" x3="116.332" y3="57.658" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="25.908" x2="103.632" y2="51.308" x3="98.552" y3="38.608" textsize="1.778" layer="47" unit="inch"/>
@@ -291,7 +291,7 @@
 <wire x1="129.54" y1="51.308" x2="154.94" y2="51.308" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="51.308" x2="154.94" y2="25.908" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="25.908" x2="129.54" y2="25.908" width="0.2032" layer="20"/>
-<text x="136.017" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="136.017" y="50.038" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="132.08" y1="48.768" x2="152.4" y2="48.768" x3="142.24" y3="53.848" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="51.308" x2="154.94" y2="51.308" x3="142.24" y3="57.658" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="25.908" x2="129.54" y2="51.308" x3="124.46" y3="38.608" textsize="1.778" layer="47" unit="inch"/>
@@ -300,7 +300,7 @@
 <wire x1="0" y1="77.216" x2="25.4" y2="77.216" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="77.216" x2="25.4" y2="51.816" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="51.816" x2="0" y2="51.816" width="0.2032" layer="20"/>
-<text x="6.477" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="6.477" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="2.54" y1="74.676" x2="22.86" y2="74.676" x3="12.7" y3="79.756" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="77.216" x2="25.4" y2="77.216" x3="12.7" y3="83.566" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="51.816" x2="0" y2="77.216" x3="-5.08" y3="64.516" textsize="1.778" layer="47" unit="inch"/>
@@ -309,7 +309,7 @@
 <wire x1="25.908" y1="77.216" x2="51.308" y2="77.216" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="77.216" x2="51.308" y2="51.816" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="51.816" x2="25.908" y2="51.816" width="0.2032" layer="20"/>
-<text x="32.385" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="32.385" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="28.448" y1="74.676" x2="48.768" y2="74.676" x3="38.608" y3="79.756" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="77.216" x2="51.308" y2="77.216" x3="38.608" y3="83.566" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="51.816" x2="25.908" y2="77.216" x3="20.828" y3="64.516" textsize="1.778" layer="47" unit="inch"/>
@@ -318,7 +318,7 @@
 <wire x1="51.816" y1="77.216" x2="77.216" y2="77.216" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="77.216" x2="77.216" y2="51.816" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="51.816" x2="51.816" y2="51.816" width="0.2032" layer="20"/>
-<text x="58.293" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="58.293" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="54.356" y1="74.676" x2="74.676" y2="74.676" x3="64.516" y3="79.756" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="77.216" x2="77.216" y2="77.216" x3="64.516" y3="83.566" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="51.816" x2="51.816" y2="77.216" x3="46.736" y3="64.516" textsize="1.778" layer="47" unit="inch"/>
@@ -327,7 +327,7 @@
 <wire x1="77.724" y1="77.216" x2="103.124" y2="77.216" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="77.216" x2="103.124" y2="51.816" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="51.816" x2="77.724" y2="51.816" width="0.2032" layer="20"/>
-<text x="84.201" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="84.201" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="80.264" y1="74.676" x2="100.584" y2="74.676" x3="90.424" y3="79.756" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="77.216" x2="103.124" y2="77.216" x3="90.424" y3="83.566" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="51.816" x2="77.724" y2="77.216" x3="72.644" y3="64.516" textsize="1.778" layer="47" unit="inch"/>
@@ -336,7 +336,7 @@
 <wire x1="103.632" y1="77.216" x2="129.032" y2="77.216" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="77.216" x2="129.032" y2="51.816" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="51.816" x2="103.632" y2="51.816" width="0.2032" layer="20"/>
-<text x="110.109" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="110.109" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="106.172" y1="74.676" x2="126.492" y2="74.676" x3="116.332" y3="79.756" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="77.216" x2="129.032" y2="77.216" x3="116.332" y3="83.566" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="51.816" x2="103.632" y2="77.216" x3="98.552" y3="64.516" textsize="1.778" layer="47" unit="inch"/>
@@ -345,7 +345,7 @@
 <wire x1="129.54" y1="77.216" x2="154.94" y2="77.216" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="77.216" x2="154.94" y2="51.816" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="51.816" x2="129.54" y2="51.816" width="0.2032" layer="20"/>
-<text x="136.017" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="136.017" y="75.946" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="132.08" y1="74.676" x2="152.4" y2="74.676" x3="142.24" y3="79.756" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="77.216" x2="154.94" y2="77.216" x3="142.24" y3="83.566" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="51.816" x2="129.54" y2="77.216" x3="124.46" y3="64.516" textsize="1.778" layer="47" unit="inch"/>
@@ -354,7 +354,7 @@
 <wire x1="0" y1="103.124" x2="25.4" y2="103.124" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="103.124" x2="25.4" y2="77.724" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="77.724" x2="0" y2="77.724" width="0.2032" layer="20"/>
-<text x="6.477" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="6.477" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="2.54" y1="100.584" x2="22.86" y2="100.584" x3="12.7" y3="105.664" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="103.124" x2="25.4" y2="103.124" x3="12.7" y3="109.474" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="77.724" x2="0" y2="103.124" x3="-5.08" y3="90.424" textsize="1.778" layer="47" unit="inch"/>
@@ -363,7 +363,7 @@
 <wire x1="25.908" y1="103.124" x2="51.308" y2="103.124" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="103.124" x2="51.308" y2="77.724" width="0.2032" layer="20"/>
 <wire x1="51.308" y1="77.724" x2="25.908" y2="77.724" width="0.2032" layer="20"/>
-<text x="32.385" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="32.385" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="28.448" y1="100.584" x2="48.768" y2="100.584" x3="38.608" y3="105.664" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="103.124" x2="51.308" y2="103.124" x3="38.608" y3="109.474" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="25.908" y1="77.724" x2="25.908" y2="103.124" x3="20.828" y3="90.424" textsize="1.778" layer="47" unit="inch"/>
@@ -372,7 +372,7 @@
 <wire x1="51.816" y1="103.124" x2="77.216" y2="103.124" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="103.124" x2="77.216" y2="77.724" width="0.2032" layer="20"/>
 <wire x1="77.216" y1="77.724" x2="51.816" y2="77.724" width="0.2032" layer="20"/>
-<text x="58.293" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="58.293" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="54.356" y1="100.584" x2="74.676" y2="100.584" x3="64.516" y3="105.664" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="103.124" x2="77.216" y2="103.124" x3="64.516" y3="109.474" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="51.816" y1="77.724" x2="51.816" y2="103.124" x3="46.736" y3="90.424" textsize="1.778" layer="47" unit="inch"/>
@@ -381,7 +381,7 @@
 <wire x1="77.724" y1="103.124" x2="103.124" y2="103.124" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="103.124" x2="103.124" y2="77.724" width="0.2032" layer="20"/>
 <wire x1="103.124" y1="77.724" x2="77.724" y2="77.724" width="0.2032" layer="20"/>
-<text x="84.201" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="84.201" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="80.264" y1="100.584" x2="100.584" y2="100.584" x3="90.424" y3="105.664" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="103.124" x2="103.124" y2="103.124" x3="90.424" y3="109.474" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="77.724" y1="77.724" x2="77.724" y2="103.124" x3="72.644" y3="90.424" textsize="1.778" layer="47" unit="inch"/>
@@ -390,7 +390,7 @@
 <wire x1="103.632" y1="103.124" x2="129.032" y2="103.124" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="103.124" x2="129.032" y2="77.724" width="0.2032" layer="20"/>
 <wire x1="129.032" y1="77.724" x2="103.632" y2="77.724" width="0.2032" layer="20"/>
-<text x="110.109" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="110.109" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="106.172" y1="100.584" x2="126.492" y2="100.584" x3="116.332" y3="105.664" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="103.124" x2="129.032" y2="103.124" x3="116.332" y3="109.474" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="103.632" y1="77.724" x2="103.632" y2="103.124" x3="98.552" y3="90.424" textsize="1.778" layer="47" unit="inch"/>
@@ -399,7 +399,7 @@
 <wire x1="129.54" y1="103.124" x2="154.94" y2="103.124" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="103.124" x2="154.94" y2="77.724" width="0.2032" layer="20"/>
 <wire x1="154.94" y1="77.724" x2="129.54" y2="77.724" width="0.2032" layer="20"/>
-<text x="136.017" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v10</text>
+<text x="136.017" y="101.854" size="1.27" layer="16" font="vector" ratio="15" rot="SMR180" align="center">v11</text>
 <dimension x1="132.08" y1="100.584" x2="152.4" y2="100.584" x3="142.24" y3="105.664" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="103.124" x2="154.94" y2="103.124" x3="142.24" y3="109.474" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="129.54" y1="77.724" x2="129.54" y2="103.124" x3="124.46" y3="90.424" textsize="1.778" layer="47" unit="inch"/>
@@ -478,7 +478,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 &lt;br&gt;
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
-<package name="0603">
+<package name="0603" urn="urn:adsk.eagle:footprint:39615/1" library_version="1">
 <description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
 <wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
@@ -2297,18 +2297,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-3.3" y1="-1.6" x2="-3.3" y2="-0.5" width="0.1778" layer="21"/>
 <wire x1="-3.3" y1="0.5" x2="-3.3" y2="1.6" width="0.1778" layer="21"/>
 <wire x1="-3.3" y1="1.6" x2="-1.8" y2="1.6" width="0.1778" layer="21"/>
-<smd name="A1" x="2.25" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A2" x="1.5" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A3" x="0.75" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A4" x="0" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A5" x="-0.75" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="B7" x="-2.65" y="0" dx="0.6" dy="0.6" layer="1" rot="R180"/>
-<smd name="C5" x="-0.75" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C4" x="0" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C3" x="0.75" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C2" x="1.5" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C1" x="2.25" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="B1" x="2.65" y="0" dx="0.6" dy="0.6" layer="1"/>
+<smd name="A1" x="2.25" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A2" x="1.5" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A3" x="0.75" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A4" x="0" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A5" x="-0.75" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="B7" x="-2.65" y="0" dx="0.5" dy="0.5" layer="1" rot="R180" cream="no"/>
+<smd name="C5" x="-0.75" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C4" x="0" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C3" x="0.75" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C2" x="1.5" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C1" x="2.25" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="B1" x="2.65" y="0" dx="0.5" dy="0.5" layer="1" cream="no"/>
 <rectangle x1="0.25" y1="0.1" x2="0.9" y2="0.55" layer="31"/>
 <wire x1="1.64" y1="0.3" x2="2.36" y2="0.3" width="0.05" layer="51"/>
 <wire x1="2.36" y1="0.3" x2="2.36" y2="-0.5" width="0.05" layer="51"/>
@@ -2316,16 +2316,16 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <circle x="-2" y="-0.1" radius="0.255" width="0.05" layer="51"/>
 <wire x1="-2.1" y1="1.5" x2="-2.1" y2="0.5" width="0.05" layer="51"/>
 <wire x1="-2.1" y1="0.5" x2="-3.2" y2="0.5" width="0.05" layer="51"/>
-<smd name="A6" x="-1.5" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A7" x="-2.25" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C6" x="-1.5" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C7" x="-2.25" y="1.05" dx="0.6" dy="0.6" layer="1"/>
+<smd name="A6" x="-1.5" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A7" x="-2.25" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C6" x="-1.5" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C7" x="-2.25" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
 <smd name="B4" x="0" y="0" dx="3.7" dy="1.2" layer="1" cream="no"/>
 <rectangle x1="2.4" y1="-0.25" x2="2.9" y2="0.25" layer="51"/>
 <rectangle x1="-0.9" y1="0.1" x2="-0.25" y2="0.55" layer="31" rot="R180"/>
 <wire x1="1.64" y1="0.3" x2="1.64" y2="-0.5" width="0.05" layer="51"/>
 <rectangle x1="-1" y1="0.8" x2="-0.5" y2="1.3" layer="51"/>
-<rectangle x1="2.35" y1="-0.9" x2="2.55" y2="-0.65" layer="1"/>
+<rectangle x1="2.35" y1="-0.9" x2="2.5" y2="-0.75" layer="1"/>
 <rectangle x1="-2.9" y1="-0.25" x2="-2.4" y2="0.25" layer="51"/>
 <rectangle x1="-3.3" y1="0.45" x2="-2.1" y2="1.55" layer="21"/>
 <rectangle x1="-1" y1="-1.3" x2="-0.5" y2="-0.8" layer="51"/>
@@ -2344,6 +2344,22 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="-1.15" y1="-0.6" x2="1.15" y2="0.6" layer="51"/>
 <rectangle x1="-0.9" y1="-0.55" x2="-0.25" y2="-0.1" layer="31" rot="R180"/>
 <rectangle x1="0.25" y1="-0.55" x2="0.9" y2="-0.1" layer="31"/>
+<rectangle x1="-2.45" y1="-1.3" x2="-2.05" y2="-0.8" layer="31"/>
+<rectangle x1="-1.7" y1="-1.3" x2="-1.3" y2="-0.8" layer="31"/>
+<rectangle x1="-0.95" y1="-1.3" x2="-0.55" y2="-0.8" layer="31"/>
+<rectangle x1="-0.2" y1="-1.3" x2="0.2" y2="-0.8" layer="31"/>
+<rectangle x1="0.55" y1="-1.3" x2="0.95" y2="-0.8" layer="31"/>
+<rectangle x1="1.3" y1="-1.3" x2="1.7" y2="-0.8" layer="31"/>
+<rectangle x1="2.05" y1="-1.3" x2="2.45" y2="-0.8" layer="31"/>
+<rectangle x1="2.45" y1="-0.25" x2="2.85" y2="0.25" layer="31"/>
+<rectangle x1="2.05" y1="0.8" x2="2.45" y2="1.3" layer="31"/>
+<rectangle x1="1.3" y1="0.8" x2="1.7" y2="1.3" layer="31"/>
+<rectangle x1="0.55" y1="0.8" x2="0.95" y2="1.3" layer="31"/>
+<rectangle x1="-0.2" y1="0.8" x2="0.2" y2="1.3" layer="31"/>
+<rectangle x1="-0.95" y1="0.8" x2="-0.55" y2="1.3" layer="31"/>
+<rectangle x1="-1.7" y1="0.8" x2="-1.3" y2="1.3" layer="31"/>
+<rectangle x1="-2.45" y1="0.8" x2="-2.05" y2="1.3" layer="31"/>
+<rectangle x1="-2.85" y1="-0.25" x2="-2.45" y2="0.25" layer="31"/>
 </package>
 </packages>
 </library>
@@ -6639,7 +6655,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="8.89" y="16.51" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="8.89" y="17.272" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="21.59" y="17.78" smashed="yes" rot="MR180">
+<element name="I2C" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="21.59" y="17.78" smashed="yes" rot="MR180">
 <attribute name="NAME" x="21.59" y="16.637" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="21.59" y="18.923" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -6783,7 +6799,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="34.798" y="16.51" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="34.798" y="17.272" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C1" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="47.498" y="17.78" smashed="yes" rot="MR180">
+<element name="I2C1" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="47.498" y="17.78" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.498" y="16.637" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="47.498" y="18.923" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -6927,7 +6943,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="60.706" y="16.51" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="60.706" y="17.272" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C2" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="73.406" y="17.78" smashed="yes" rot="MR180">
+<element name="I2C2" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="73.406" y="17.78" smashed="yes" rot="MR180">
 <attribute name="NAME" x="73.406" y="16.637" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="73.406" y="18.923" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7071,7 +7087,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="86.614" y="16.51" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="86.614" y="17.272" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C3" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="99.314" y="17.78" smashed="yes" rot="MR180">
+<element name="I2C3" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="99.314" y="17.78" smashed="yes" rot="MR180">
 <attribute name="NAME" x="99.314" y="16.637" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="99.314" y="18.923" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7215,7 +7231,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="112.522" y="16.51" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="112.522" y="17.272" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C4" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="125.222" y="17.78" smashed="yes" rot="MR180">
+<element name="I2C4" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="125.222" y="17.78" smashed="yes" rot="MR180">
 <attribute name="NAME" x="125.222" y="16.637" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="125.222" y="18.923" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7359,7 +7375,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="138.43" y="16.51" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="138.43" y="17.272" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C5" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="151.13" y="17.78" smashed="yes" rot="MR180">
+<element name="I2C5" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="151.13" y="17.78" smashed="yes" rot="MR180">
 <attribute name="NAME" x="151.13" y="16.637" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="151.13" y="18.923" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7503,7 +7519,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="8.89" y="42.418" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="8.89" y="43.18" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C6" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="21.59" y="43.688" smashed="yes" rot="MR180">
+<element name="I2C6" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="21.59" y="43.688" smashed="yes" rot="MR180">
 <attribute name="NAME" x="21.59" y="42.545" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="21.59" y="44.831" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7647,7 +7663,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="34.798" y="42.418" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="34.798" y="43.18" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C7" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="47.498" y="43.688" smashed="yes" rot="MR180">
+<element name="I2C7" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="47.498" y="43.688" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.498" y="42.545" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="47.498" y="44.831" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7791,7 +7807,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="60.706" y="42.418" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="60.706" y="43.18" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C8" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="73.406" y="43.688" smashed="yes" rot="MR180">
+<element name="I2C8" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="73.406" y="43.688" smashed="yes" rot="MR180">
 <attribute name="NAME" x="73.406" y="42.545" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="73.406" y="44.831" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -7935,7 +7951,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="86.614" y="42.418" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="86.614" y="43.18" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C9" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="99.314" y="43.688" smashed="yes" rot="MR180">
+<element name="I2C9" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="99.314" y="43.688" smashed="yes" rot="MR180">
 <attribute name="NAME" x="99.314" y="42.545" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="99.314" y="44.831" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8079,7 +8095,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="112.522" y="42.418" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="112.522" y="43.18" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C10" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="125.222" y="43.688" smashed="yes" rot="MR180">
+<element name="I2C10" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="125.222" y="43.688" smashed="yes" rot="MR180">
 <attribute name="NAME" x="125.222" y="42.545" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="125.222" y="44.831" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8223,7 +8239,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="138.43" y="42.418" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="138.43" y="43.18" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C11" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="151.13" y="43.688" smashed="yes" rot="MR180">
+<element name="I2C11" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="151.13" y="43.688" smashed="yes" rot="MR180">
 <attribute name="NAME" x="151.13" y="42.545" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="151.13" y="44.831" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8367,7 +8383,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="8.89" y="68.326" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="8.89" y="69.088" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C12" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="21.59" y="69.596" smashed="yes" rot="MR180">
+<element name="I2C12" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="21.59" y="69.596" smashed="yes" rot="MR180">
 <attribute name="NAME" x="21.59" y="68.453" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="21.59" y="70.739" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8511,7 +8527,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="34.798" y="68.326" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="34.798" y="69.088" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C13" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="47.498" y="69.596" smashed="yes" rot="MR180">
+<element name="I2C13" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="47.498" y="69.596" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.498" y="68.453" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="47.498" y="70.739" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8655,7 +8671,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="60.706" y="68.326" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="60.706" y="69.088" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C14" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="73.406" y="69.596" smashed="yes" rot="MR180">
+<element name="I2C14" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="73.406" y="69.596" smashed="yes" rot="MR180">
 <attribute name="NAME" x="73.406" y="68.453" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="73.406" y="70.739" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8799,7 +8815,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="86.614" y="68.326" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="86.614" y="69.088" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C15" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="99.314" y="69.596" smashed="yes" rot="MR180">
+<element name="I2C15" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="99.314" y="69.596" smashed="yes" rot="MR180">
 <attribute name="NAME" x="99.314" y="68.453" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="99.314" y="70.739" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -8943,7 +8959,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="112.522" y="68.326" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="112.522" y="69.088" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C16" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="125.222" y="69.596" smashed="yes" rot="MR180">
+<element name="I2C16" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="125.222" y="69.596" smashed="yes" rot="MR180">
 <attribute name="NAME" x="125.222" y="68.453" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="125.222" y="70.739" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9087,7 +9103,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="138.43" y="68.326" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="138.43" y="69.088" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C17" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="151.13" y="69.596" smashed="yes" rot="MR180">
+<element name="I2C17" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="151.13" y="69.596" smashed="yes" rot="MR180">
 <attribute name="NAME" x="151.13" y="68.453" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="151.13" y="70.739" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9231,7 +9247,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="8.89" y="94.234" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="8.89" y="94.996" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C18" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="21.59" y="95.504" smashed="yes" rot="MR180">
+<element name="I2C18" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="21.59" y="95.504" smashed="yes" rot="MR180">
 <attribute name="NAME" x="21.59" y="94.361" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="21.59" y="96.647" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9375,7 +9391,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="34.798" y="94.234" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="34.798" y="94.996" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C19" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="47.498" y="95.504" smashed="yes" rot="MR180">
+<element name="I2C19" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="47.498" y="95.504" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.498" y="94.361" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="47.498" y="96.647" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9519,7 +9535,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="60.706" y="94.234" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="60.706" y="94.996" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C20" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="73.406" y="95.504" smashed="yes" rot="MR180">
+<element name="I2C20" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="73.406" y="95.504" smashed="yes" rot="MR180">
 <attribute name="NAME" x="73.406" y="94.361" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="73.406" y="96.647" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9663,7 +9679,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="86.614" y="94.234" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="86.614" y="94.996" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C21" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="99.314" y="95.504" smashed="yes" rot="MR180">
+<element name="I2C21" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="99.314" y="95.504" smashed="yes" rot="MR180">
 <attribute name="NAME" x="99.314" y="94.361" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="99.314" y="96.647" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9807,7 +9823,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="112.522" y="94.234" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="112.522" y="94.996" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C22" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="125.222" y="95.504" smashed="yes" rot="MR180">
+<element name="I2C22" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="125.222" y="95.504" smashed="yes" rot="MR180">
 <attribute name="NAME" x="125.222" y="94.361" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="125.222" y="96.647" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
@@ -9951,7 +9967,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <attribute name="PROD_ID" value="RES-08272" x="138.43" y="94.234" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="138.43" y="94.996" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="I2C23" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="" x="151.13" y="95.504" smashed="yes" rot="MR180">
+<element name="I2C23" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="151.13" y="95.504" smashed="yes" rot="MR180">
 <attribute name="NAME" x="151.13" y="94.361" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="151.13" y="96.647" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>

@@ -302,7 +302,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 &lt;br&gt;
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
-<package name="0603">
+<package name="0603" urn="urn:adsk.eagle:footprint:39615/1" library_version="1">
 <description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
 <wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
@@ -830,8 +830,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="1.27" y1="0.635" x2="1.27" y2="-0.635" width="0.1524" layer="94"/>
 <wire x1="-2.54" y1="0" x2="-1.27" y2="0" width="0.1524" layer="94"/>
 <wire x1="0" y1="2.032" x2="0" y2="-1.778" width="0.254" layer="94"/>
-<text x="2.54" y="0.381" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<text x="2.54" y="-0.381" size="1.778" layer="96" font="vector" align="top-left">&gt;VALUE</text>
+<text x="6.096" y="1.524" size="1.778" layer="95" font="vector" align="center">&gt;NAME</text>
+<text x="6.858" y="-1.524" size="1.778" layer="96" font="vector" align="center">&gt;VALUE</text>
 <rectangle x1="-1.27" y1="-0.635" x2="1.27" y2="0.635" layer="94"/>
 <pin name="3" x="0" y="-5.08" visible="off" length="short" direction="pas" rot="R90"/>
 <pin name="1" x="0" y="5.08" visible="off" length="short" direction="pas" rot="R270"/>
@@ -844,8 +844,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="2.54" y1="0" x2="1.651" y2="0" width="0.1524" layer="94"/>
 <wire x1="-2.54" y1="0" x2="-1.651" y2="0" width="0.1524" layer="94"/>
 <wire x1="-0.762" y1="0" x2="1.016" y2="0" width="0.254" layer="94"/>
-<text x="-2.54" y="2.54" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<text x="-2.54" y="-2.54" size="1.778" layer="96" font="vector" align="top-left">&gt;VALUE</text>
+<text x="0" y="3.048" size="1.778" layer="95" font="vector" align="center">&gt;NAME</text>
+<text x="0" y="-3.048" size="1.778" layer="96" font="vector" align="center">&gt;VALUE</text>
 <pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
 <pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1"/>
 </symbol>
@@ -30308,18 +30308,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-3.3" y1="-1.6" x2="-3.3" y2="-0.5" width="0.1778" layer="21"/>
 <wire x1="-3.3" y1="0.5" x2="-3.3" y2="1.6" width="0.1778" layer="21"/>
 <wire x1="-3.3" y1="1.6" x2="-1.8" y2="1.6" width="0.1778" layer="21"/>
-<smd name="A1" x="2.25" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A2" x="1.5" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A3" x="0.75" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A4" x="0" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A5" x="-0.75" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="B7" x="-2.65" y="0" dx="0.6" dy="0.6" layer="1" rot="R180"/>
-<smd name="C5" x="-0.75" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C4" x="0" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C3" x="0.75" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C2" x="1.5" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C1" x="2.25" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="B1" x="2.65" y="0" dx="0.6" dy="0.6" layer="1"/>
+<smd name="A1" x="2.25" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A2" x="1.5" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A3" x="0.75" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A4" x="0" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A5" x="-0.75" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="B7" x="-2.65" y="0" dx="0.5" dy="0.5" layer="1" rot="R180" cream="no"/>
+<smd name="C5" x="-0.75" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C4" x="0" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C3" x="0.75" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C2" x="1.5" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C1" x="2.25" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="B1" x="2.65" y="0" dx="0.5" dy="0.5" layer="1" cream="no"/>
 <rectangle x1="0.25" y1="0.1" x2="0.9" y2="0.55" layer="31"/>
 <wire x1="1.64" y1="0.3" x2="2.36" y2="0.3" width="0.05" layer="51"/>
 <wire x1="2.36" y1="0.3" x2="2.36" y2="-0.5" width="0.05" layer="51"/>
@@ -30327,16 +30327,16 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <circle x="-2" y="-0.1" radius="0.255" width="0.05" layer="51"/>
 <wire x1="-2.1" y1="1.5" x2="-2.1" y2="0.5" width="0.05" layer="51"/>
 <wire x1="-2.1" y1="0.5" x2="-3.2" y2="0.5" width="0.05" layer="51"/>
-<smd name="A6" x="-1.5" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="A7" x="-2.25" y="-1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C6" x="-1.5" y="1.05" dx="0.6" dy="0.6" layer="1"/>
-<smd name="C7" x="-2.25" y="1.05" dx="0.6" dy="0.6" layer="1"/>
+<smd name="A6" x="-1.5" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="A7" x="-2.25" y="-1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C6" x="-1.5" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
+<smd name="C7" x="-2.25" y="1.05" dx="0.5" dy="0.5" layer="1" cream="no"/>
 <smd name="B4" x="0" y="0" dx="3.7" dy="1.2" layer="1" cream="no"/>
 <rectangle x1="2.4" y1="-0.25" x2="2.9" y2="0.25" layer="51"/>
 <rectangle x1="-0.9" y1="0.1" x2="-0.25" y2="0.55" layer="31" rot="R180"/>
 <wire x1="1.64" y1="0.3" x2="1.64" y2="-0.5" width="0.05" layer="51"/>
 <rectangle x1="-1" y1="0.8" x2="-0.5" y2="1.3" layer="51"/>
-<rectangle x1="2.35" y1="-0.9" x2="2.55" y2="-0.65" layer="1"/>
+<rectangle x1="2.35" y1="-0.9" x2="2.5" y2="-0.75" layer="1"/>
 <rectangle x1="-2.9" y1="-0.25" x2="-2.4" y2="0.25" layer="51"/>
 <rectangle x1="-3.3" y1="0.45" x2="-2.1" y2="1.55" layer="21"/>
 <rectangle x1="-1" y1="-1.3" x2="-0.5" y2="-0.8" layer="51"/>
@@ -30355,6 +30355,22 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="-1.15" y1="-0.6" x2="1.15" y2="0.6" layer="51"/>
 <rectangle x1="-0.9" y1="-0.55" x2="-0.25" y2="-0.1" layer="31" rot="R180"/>
 <rectangle x1="0.25" y1="-0.55" x2="0.9" y2="-0.1" layer="31"/>
+<rectangle x1="-2.45" y1="-1.3" x2="-2.05" y2="-0.8" layer="31"/>
+<rectangle x1="-1.7" y1="-1.3" x2="-1.3" y2="-0.8" layer="31"/>
+<rectangle x1="-0.95" y1="-1.3" x2="-0.55" y2="-0.8" layer="31"/>
+<rectangle x1="-0.2" y1="-1.3" x2="0.2" y2="-0.8" layer="31"/>
+<rectangle x1="0.55" y1="-1.3" x2="0.95" y2="-0.8" layer="31"/>
+<rectangle x1="1.3" y1="-1.3" x2="1.7" y2="-0.8" layer="31"/>
+<rectangle x1="2.05" y1="-1.3" x2="2.45" y2="-0.8" layer="31"/>
+<rectangle x1="2.45" y1="-0.25" x2="2.85" y2="0.25" layer="31"/>
+<rectangle x1="2.05" y1="0.8" x2="2.45" y2="1.3" layer="31"/>
+<rectangle x1="1.3" y1="0.8" x2="1.7" y2="1.3" layer="31"/>
+<rectangle x1="0.55" y1="0.8" x2="0.95" y2="1.3" layer="31"/>
+<rectangle x1="-0.2" y1="0.8" x2="0.2" y2="1.3" layer="31"/>
+<rectangle x1="-0.95" y1="0.8" x2="-0.55" y2="1.3" layer="31"/>
+<rectangle x1="-1.7" y1="0.8" x2="-1.3" y2="1.3" layer="31"/>
+<rectangle x1="-2.45" y1="0.8" x2="-2.05" y2="1.3" layer="31"/>
+<rectangle x1="-2.85" y1="-0.25" x2="-2.45" y2="0.25" layer="31"/>
 </package>
 </packages>
 <symbols>
@@ -30422,7 +30438,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="JP6" library="SparkFun" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="R5" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
-<part name="I2C" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value=""/>
+<part name="I2C" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK"/>
 <part name="SUPPLY4" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="J2" library="SparkFun-Connectors" deviceset="QWIIC_CONNECTOR" device="JS-1MM"/>
 <part name="SUPPLY7" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
