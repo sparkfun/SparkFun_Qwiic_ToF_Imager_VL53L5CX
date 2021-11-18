@@ -30499,7 +30499,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 <text x="170.434" y="11.43" size="2.54" layer="94" font="vector">N. Seidle</text>
 <text x="237.744" y="7.366" size="2.54" layer="94" font="vector">v10</text>
-<text x="121.92" y="111.76" size="1.778" layer="97" font="vector" align="center">7-bit unshifted I2C address: 0x52</text>
+<text x="121.92" y="111.76" size="1.778" layer="97" font="vector" align="center">7-bit unshifted I2C address: 0x29</text>
 <text x="193.04" y="157.48" size="1.778" layer="97" font="vector" align="center">Cut I²C jumper to
 remove pull-ups from bus</text>
 <text x="182.88" y="167.64" size="1.778" layer="97" font="vector" align="center">Cut INT jumper to remove 
@@ -30526,7 +30526,6 @@ isolate power supplies</text>
 </instance>
 <instance part="I2C" gate="G$1" x="172.72" y="149.86" smashed="yes" rot="R270">
 <attribute name="NAME" x="170.942" y="146.05" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="172.339" y="147.32" size="1.778" layer="96" font="vector" rot="R270" align="top-left"/>
 </instance>
 <instance part="SUPPLY4" gate="G$1" x="50.8" y="66.04" smashed="yes">
 <attribute name="VALUE" x="50.8" y="68.834" size="1.778" layer="96" align="bottom-center"/>
